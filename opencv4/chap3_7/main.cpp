@@ -4,10 +4,10 @@
 using namespace cv;
 using namespace std;
 
-void MatOp1();
+void MatOp1(); // mattrix
 void MatOp2();
 
-int main()
+int main() 
 {
 	MatOp1();
 	MatOp2();
